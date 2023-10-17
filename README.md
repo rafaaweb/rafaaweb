@@ -1,5 +1,5 @@
 # Rafael Alexandre
-Desenvolvedor iniciante apaixonado por Java back-end, em busca de conhecimento e colaborações. 🚀
+Dev Junior com conhecimento em Java, JavaScript, TypeScript, CSS e HTML. Apaixonado por criar soluções inovadoras e desbravar o mundo do desenvolvimento de software.☕ 
 # Habilidades
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
