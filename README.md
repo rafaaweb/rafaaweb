@@ -1,16 +1,13 @@
-### Hi there 👋
+# rafaaweb
+Olá, Sou dev Full Stack iniciante e estou participando do Santander Bootcamp 2023 na plataforma DIO.
+# Habilidades
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 
-<!--
-**rafaaweb/rafaaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bibliotecas e Frameworks
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![Spring](https://img.shields.io/badge/spring-000?style=for-the-badge&logo=spring&logoColor=green)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# GitHub Status
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rafaaweb&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
