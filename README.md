@@ -1,15 +1,17 @@
-# Rafael Alexandre
+### Olá, eu sou o Rafael Alexandre 👋🏼
 Dev Junior com conhecimento em Java, JavaScript, TypeScript, CSS e HTML. Apaixonado por criar soluções inovadoras e desbravar o mundo do desenvolvimento de software.☕ 
+
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 # Habilidades
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![CSS](https://img.shields.io/badge/Css-000?style=for-the-badge&logo=css3)
-![HTML](https://img.shields.io/badge/Html-000?style=for-the-badge&logo=html5)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 # Bibliotecas e Frameworks
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-![Spring](https://img.shields.io/badge/spring-000?style=for-the-badge&logo=spring&logoColor=green)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-000?style=for-the-badge&logo=selenium)
 
 # GitHub Status
