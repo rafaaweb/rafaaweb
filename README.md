@@ -16,4 +16,4 @@ Dev Junior com conhecimento em Java, JavaScript, TypeScript, CSS e HTML. Apaixon
 
 # GitHub Status
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rafaaweb&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaaweb&layout=compact)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
