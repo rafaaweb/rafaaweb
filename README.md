@@ -1,5 +1,5 @@
 ### Olá, eu sou o Rafael Alexandre 👋🏼
-Dev Junior com conhecimento em Java, JavaScript, TypeScript, CSS e HTML. Apaixonado por criar soluções inovadoras e desbravar o mundo do desenvolvimento de software.☕ 
+Dev Junior com conhecimento em Java, JavaScript, TypeScript, PHP, CSS e HTML. Apaixonado por criar soluções inovadoras e desbravar o mundo do desenvolvimento de software.☕ 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-alexandre-dev)
 # Habilidades
